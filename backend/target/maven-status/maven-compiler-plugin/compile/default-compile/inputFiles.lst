@@ -1,0 +1,15 @@
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/repository/UserRepository.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/util/ListingCSVLogger.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/controller/AuthController.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/model/BaseEntity.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/service/ListingService.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/repository/ListingRepository.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/model/ListingStatus.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/model/Listing.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/model/User.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/controller/ListingController.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/DemoApplication.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/config/SecurityConfig.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/config/CorsConfig.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/model/UserRole.java
+/Users/zlatan/Desktop/Sem 4/CSYE6200/Final/Github/csye6200-spring-2025-final-project-final_project_group_2/backend/src/main/java/com/example/demo/util/Exportable.java

@@ -1,0 +1,8 @@
+Model classes - Encapsulation
+ENUM - UserRole.java, ListingStatus.java
+Comparator - ListingService.java (Line 77)
+Streams and Lambda - ListingService.java .get() Methods
+Advanced Data Structures - ListingService.java .groupByStatus() (Line 81)
+Exception Handling - ListingController.java (Line 40)
+Inner Class - ListingController.java (Line 20)
+Design patterns - Service, Controller, Repository Folders
